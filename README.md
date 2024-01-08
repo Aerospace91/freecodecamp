@@ -29,3 +29,7 @@ Focused on Algorithm Design
 ## Recursion.py
 ---
 Focused on method recursion with the Tower of Hanoi
+
+## Merge_sort.py
+---
+Focus on Data Structures
