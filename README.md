@@ -33,3 +33,7 @@ Focused on method recursion with the Tower of Hanoi
 ## Merge_sort.py
 ---
 Focus on Data Structures
+
+## Sudoku_solver.py
+---
+Focus on Classes and Objects
