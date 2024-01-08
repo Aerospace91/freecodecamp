@@ -13,3 +13,7 @@ Focused on working with numbers and strings
 ## Expense_tracker.py
 ---
 Focused on building Lambda functions
+
+## Snake_case.py
+---
+Focused on list comprehension
