@@ -21,3 +21,7 @@ Focused on list comprehension
 ## Password_gen.py
 ---
 Focused on regular expressions and list comprehension
+
+## Shortest_path.py
+---
+Focused on Algorithm Design
