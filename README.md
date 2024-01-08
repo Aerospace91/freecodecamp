@@ -17,3 +17,7 @@ Focused on building Lambda functions
 ## Snake_case.py
 ---
 Focused on list comprehension
+
+## Password_gen.py
+---
+Focused on regular expressions and list comprehension
