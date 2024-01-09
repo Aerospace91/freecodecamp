@@ -37,3 +37,7 @@ Focus on Data Structures
 ## Sudoku_solver.py
 ---
 Focus on Classes and Objects
+
+## Binary_search.py
+---
+Focus on Tree Traversal
